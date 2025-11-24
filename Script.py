@@ -359,7 +359,7 @@ Name - {}
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 <code>/batch https://t.me/ph0enix_web https://t.me/ph0enix_web</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/ph0enix_web><b>𝗣𝗛𝗢𝗘𝗡𝗜𝗫𝗪𝗘𝗕</b></a>"""
+
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
 
@@ -369,7 +369,7 @@ Name - {}
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/ph0enix_web><b>𝗣𝗛𝗢𝗘𝗡𝗜𝗫𝗪𝗘𝗕</b></a>"""
+
 
 
 
