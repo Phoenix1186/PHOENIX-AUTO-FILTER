@@ -96,5 +96,5 @@ group_broadcast - to broadcast a message to all groups
 
 ## TELAGRAM SUPPORT 
 
-* [![PHOENIX-AUTO-FILTER](https://img.shields.io/static/v1?label=PHOENIX&message=AUTO-FILTER&color=critical)](https://t.me/ph0enix_web)
+* [![@ph0enix_web](https://img.shields.io/static/v1?label=Support&message=@ph0enix_web&color=critical)](https://t.me/ph0enix_web)
 
