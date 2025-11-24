@@ -361,7 +361,7 @@ Name - {}
 
 
     NORSLTS = """
-#NoResults
+# NoResults
 
 𝗜𝗗 <b>: {}</b>
 
