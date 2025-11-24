@@ -1,7 +1,7 @@
 {
     "name": "PHOENIX-AUTO-FILTER",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
-    "logo": "https://graph.org/file/f65110f85f548ef11aed7.jpg",
+    "logo": "https://i.ibb.co/TBfWBFyK/IMG-20250616-WA0014.jpg",
     "stack": "container",
     "keywords": [
       "telegram",
