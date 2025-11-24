@@ -1,11 +1,11 @@
 services:
   - type: web
     plan: free
-    name: PETER-PARKER-BOT
+    name: PHOENIX-AUTO-FILTER
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
-    repo: https://github.com/matrixbotz0/PETER-PARKER-BOT.git      
+    repo: https://github.com/phoenix1186/PHOENIX-AUTO-FILTER.git      
     branch: main
     envVars:
       - key: BOT_TOKEN 

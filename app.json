@@ -1,5 +1,5 @@
 {
-    "name": "PETER-PARKER-BOT",
+    "name": "PHOENIX-AUTO-FILTER",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "logo": "https://graph.org/file/f65110f85f548ef11aed7.jpg",
     "stack": "container",
@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/matrixbotz0/PETER-PARKER-BOT",
-    "repository": "https://github.com/matrixbotz0/PETER-PARKER-BOT",
+    "website": "https://github.com/phoenix1186/PHOENIX-AUTO-FILTER",
+    "repository": "https://github.com/phoenix1186/PHOENIX-AUTO-FILTER",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",

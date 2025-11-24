@@ -40,7 +40,7 @@ async def pdf_to_text(bot, message):
                 tts_file.save(f"{message.chat.id}.mp3")      
                 with open(f"{message.chat.id}.mp3", "rb") as speech:
                       await bot.send_voice(chat_id, speech)   
-                await txt.edit("𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 𝙼𝙴...☺️\n@MLZ_BOTZ")    
+                await txt.edit("𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚄𝚂𝙸𝙽𝙶 𝙼𝙴...☺️\n@ph0enix_web")    
                 os.remove(pdf_path)  
                 
                 
